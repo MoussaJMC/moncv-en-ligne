@@ -1,0 +1,49 @@
+body {
+    /* background-color: rgb(71, 71, 109); */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+hr {
+    border-color: rgb(22, 22, 75);
+}
+
+p{
+    margin: 0px;
+}
+
+.contenu{
+    width: 500px;
+    margin: 10px auto;
+    /* background-color: bisque; */
+}
+
+
+
+.details{
+    /* background-color: aquamarine; */
+    height: 150px;
+    marging-top: 25px;
+}
+
+
+div.details img{
+    height: 150px;
+    float: left;
+    border-radius: 50% ;
+}
+
+.list-details {
+    /* background-color: rgb(122, 78, 135); */
+    float: left;
+    list-style-type: none;
+}
+
+
+
+.cv-section{
+    /* background-color: antiquewhite; */
+    padding-bottom: 20px;
+}
